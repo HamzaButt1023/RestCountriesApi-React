@@ -1,0 +1,14 @@
+
+*{
+  background: black;
+}
+.col{
+  margin: 0px 0px 0px 500px; 
+}
+.form-control{
+  margin:0px 0px 0px 500px;
+}
+#table{
+  border: 2px solid white;
+  border-radius: 5px;
+}
